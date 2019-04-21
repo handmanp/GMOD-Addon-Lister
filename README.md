@@ -1,5 +1,6 @@
 # Garrys-Mod-Addon-Lister
-Steamワークショップのコレクション情報から、アドオンの表示・適用ができる便利ツール
+**Steamワークショップのコレクション情報から、アドオンの表示・適用ができる便利ツール**  
+![Imgur](https://i.imgur.com/pVPl4Hh.png)  
 
 # 概要
 * SteamワークショップのコレクションIDを指定するだけで、適用するアドオンを一括管理  
@@ -17,10 +18,13 @@ Steamワークショップのコレクション情報から、アドオンの表
 
 # 各ボタンの説明
 * Page1  
-サーバーに導入したいコレクションのID、SteamAPIキーを入力し「GetInfo」をクリックすることで  
-コレクションに含まれているアドオンのリストが左に表示されます。
+  ![Imgur](https://i.imgur.com/0C7DVvf.png)
   
-* Page2
+  サーバーに導入したいコレクションのID、SteamAPIキーを入力し「GetInfo」をクリックすることで  
+  コレクションに含まれているアドオンのリストが左に表示されます。
+  
+* Page2    
+  ![imgur](https://imgur.com/etmsKZ6.png)
   * サーバーディレクトリ  
     GarrysModServerのディレクトリを指定します。
       
